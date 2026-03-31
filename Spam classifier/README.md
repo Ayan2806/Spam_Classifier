@@ -1,6 +1,6 @@
 # SMS Spam Classifier
 
-A machine learning model that classifies SMS messages as spam or ham with 98% accuracy.
+A machine learning model that classifies SMS messages as spam or ham with high accuracy and strong precision–recall performance.
 
 ## Project Structure
 
